@@ -2,11 +2,7 @@
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74a8e2993c084639beb519005a1d7bed~tplv-k3u1fbpfcp-zoom-1.image)
 
 
-
-## 现在市场上的绘制图表工具有那些
-- <span><a href="https://github.com/antvis/g6">G6</a></span> :是一个图可视化引擎。它提供了图的绘制、布局、分析、交互、动画等图可视化的基础能力。旨在让关系变得透明，简单。让用户获得关系数据的 Insight。
-- <span><a href="https://www.graphviz.org/about/">graphviz</a></span>
-图形可视化是一种将结构信息表示为抽象图形和网络图的方式。自动图形绘制在软件工程，数据库和Web设计，网络以及许多其他领域的可视界面中具有许多重要的应用程序。
+## 一个基于Vue+jsplumb.js封装的图形化工具
 
 
 ## 什么是jsplumb,能做什么？
