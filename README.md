@@ -216,7 +216,6 @@ jsPlumb.bind('click', function (conn, originalEvent) {
   }
 })
 ```
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a79ec99be0144e12807e7068546ffd60~tplv-k3u1fbpfcp-zoom-1.image)
 
 ## 参考文档
 https://docs.jsplumbtoolkit.com/
