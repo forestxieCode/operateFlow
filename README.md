@@ -1,9 +1,8 @@
+# 一个基于Vue+jsplumb.js封装的图形化工具
+
+
 ## 项目效果
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/74a8e2993c084639beb519005a1d7bed~tplv-k3u1fbpfcp-zoom-1.image)
-
-
-## 一个基于Vue+jsplumb.js封装的图形化工具
-
 
 ## 什么是jsplumb,能做什么？
 - `jsplumb`是一个图表插件，它能绘制一条链条的流程图，类似于Visio的应用程序或工作流程设计器，由于图表项目和连接的所有参数都是非常精细可控的，因此您可以绘制您可以想到的任何类型的图表的。而且它是完全免费的，并根据MIT许可证提供。您可以直接从`jsPlumb` github网站下载框架。该项目主要由`Simon Porritt`开发，他在澳大利亚西德尼担任网络开发人员。 `jsPlumb`由他积极开发。
