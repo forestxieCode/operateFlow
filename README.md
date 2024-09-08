@@ -1,4 +1,4 @@
-# 一个基于Vue+jsplumb.js封装的图形化工具
+# 一个基于Vue+jsplumb.js封装的流程图组件
 
 
 ## 项目效果
